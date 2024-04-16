@@ -6,10 +6,11 @@ The Medical Insurance Project aims to analyze a dataset containing information a
 # DATASET ATTRIBUTES
 The dataset used in this project contains the following columns:
 
-Age: Age of the individual (numeric)
-Gender: Gender of the individual (male/female)
-BMI: Body mass index of the individual (numeric)
-Children: Number of children/dependents covered by the insurance plan (numeric)
-Smoker: Smoking status of the individual (yes/no)
-Region: Residential region of the individual (northeast, northwest, southeast, southwest)
-Charges: Medical insurance charges billed to the individual (numeric)
+-- PatientID : Integer Value.
+-- Age: age of primary beneficiary
+-- Gender: gender of primary beneficiary (male or female)
+-- Bmi: body mass index of primary beneficiary
+-- Children: number of children covered by health insurance / number of dependents
+-- Smoker: whether the primary beneficiary is a smoker or not (yes or no)
+-- Region: the beneficiary's residential area in the US (northeast, southeast, southwest, or northwest)
+-- Claim: individual medical costs billed by health insurance
