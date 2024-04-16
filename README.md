@@ -36,10 +36,10 @@ Visualize trends and relationships within the data using SQL queries to uncover 
 Provide actionable recommendations for insurance providers and healthcare professionals based on the SQL analysis.
 
 # Technologies Used
-## SQL (Structured Query Language)
+SQL (Structured Query Language)
 Include SQL queries used for data exploration, analysis, visualization, and any other relevant tasks
 
-## MICROSOFT EXCEL
+MICROSOFT EXCEL
 Include Excel formulas, charts, graphs, and any other relevant analysis performed using Excel.
 
 # CONCLUSION
