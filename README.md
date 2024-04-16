@@ -37,9 +37,11 @@ Provide actionable recommendations for insurance providers and healthcare profes
 
 # Technologies Used
 SQL (Structured Query Language)
+
 Include SQL queries used for data exploration, analysis, visualization, and any other relevant tasks
 
 MICROSOFT EXCEL
+
 Include Excel formulas, charts, graphs, and any other relevant analysis performed using Excel.
 
 # CONCLUSION
