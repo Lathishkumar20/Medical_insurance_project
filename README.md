@@ -35,7 +35,14 @@ Visualize trends and relationships within the data using SQL queries to uncover 
 
 Provide actionable recommendations for insurance providers and healthcare professionals based on the SQL analysis.
 
-# Conclusion:
+# Technologies Used
+## SQL (Structured Query Language)
+Include SQL queries used for data exploration, analysis, visualization, and any other relevant tasks
+
+## MICROSOFT EXCEL
+Include Excel formulas, charts, graphs, and any other relevant analysis performed using Excel.
+
+# CONCLUSION
 
 Through this project, we aim to gain insights into the factors influencing medical insurance costs using SQL,Excel analysis. 
 The findings will provide valuable information for insurance providers, healthcare professionals, and patients.
