@@ -25,7 +25,7 @@ Region: the beneficiary's residential area in the US (northeast, southeast, sout
 Claim: individual medical costs billed by health insurance.
 
 
-METHODOLOGY
+# METHODOLOGY
 
 Explore the characteristics of the dataset and gain insights into patient demographics using Excel.
 
@@ -35,6 +35,7 @@ Visualize trends and relationships within the data using SQL queries to uncover 
 
 Provide actionable recommendations for insurance providers and healthcare professionals based on the SQL analysis.
 
-Conclusion:
+# Conclusion:
 
-Through this project, we aim to gain insights into the factors influencing medical insurance costs using SQL,Excel analysis. The findings will provide valuable information for insurance providers, healthcare professionals, and patients.
+Through this project, we aim to gain insights into the factors influencing medical insurance costs using SQL,Excel analysis. 
+The findings will provide valuable information for insurance providers, healthcare professionals, and patients.
